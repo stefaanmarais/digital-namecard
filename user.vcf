@@ -7,7 +7,7 @@ ORG:Crownfruit;
 TITLE:CEO
 EMAIL;type=INTERNET;type=WORK;type=pref:stefaan@crownfruit.sg
 TEL;type=WORK;type=VOICE:+65 8655 9769
-item1.ADR;type=WORK;type=pref:;;600 North Bridge Road\Parkview Square\, 10-01;;;138577;Singapore
+item1.ADR;type=WORK;type=pref:;;600 North Bridge Road\Parkview Square\, 10-01;;;188778;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:www.crownfruit.sg
 item2.X-ABLabel:_$!<HomePage>!$_
